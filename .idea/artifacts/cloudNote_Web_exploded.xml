@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cloudNote:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/cloudNote_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cloudNote/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cloudNote" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
