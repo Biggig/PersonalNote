@@ -9,9 +9,9 @@
 6. 发布个人日志  
 
 # 技术栈
-[Mysql](https://www.mysql.com/cn/)
-[Java Servlet](https://www.javatpoint.com/servlet-tutorial)
-[BootStrap](https://v3.bootcss.com/getting-started/)
-[JSP](https://www.oracle.com/java/technologies/jspt.html)
-[Ueditor](https://github.com/fex-team/ueditor)
-[Markdown](https://markdown.com.cn/basic-syntax/) 
+[Mysql](https://www.mysql.com/cn/)  
+[Java Servlet](https://www.javatpoint.com/servlet-tutorial)  
+[BootStrap](https://v3.bootcss.com/getting-started/)  
+[JSP](https://www.oracle.com/java/technologies/jspt.html)  
+[Ueditor](https://github.com/fex-team/ueditor)  
+[Markdown](https://markdown.com.cn/basic-syntax/)  
